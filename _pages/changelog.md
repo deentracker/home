@@ -6,7 +6,7 @@ include_in_header: true
 
 # Changelog
 
-## Version 1.1
+## Version 1.3
 App store release. Please notify of bugs via email or by reporting crashes through app store.
 
 #### What's New
