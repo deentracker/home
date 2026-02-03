@@ -6,8 +6,8 @@ include_in_header: true
 
 # Changelog
 
-## Version 1.1.0
-App store release. Please notify of bugs via email or by reporting crashes through app store.
+## Version 1.1.1
+App store release. Please notify of bugs via email, social media or by reporting crashes through app store.
 
 #### What's New
 - Everything
