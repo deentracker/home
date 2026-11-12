@@ -16,7 +16,7 @@ Deen Tracker collects no user data. All of the users data remains on device. Loc
 Deen Tracker collects no information about you. Not even usage stats. The app has no ads nor does it have it's own servers for your data to be shared to. User privacy is a priority.
 
 ### 1.1 Information you provide to us 
-- GPS co-ordinates are sent to Apple for reverse geocoding so your city name can be found. This feature is entirely optional. No other usage data is submitted with these geocoding requests.
+- GPS co-ordinates are sent to Apple on Apple Devices and to Google on Android devices for reverse geocoding so your city name can be found. This feature is entirely optional. No other usage data is submitted with these geocoding requests.
 
 ### 1.2 Third Parties we collect information from
 We collect no information about you, this includes from third parties.
@@ -24,7 +24,7 @@ We collect no information about you, this includes from third parties.
 <br>
 
 ## 2.0 What rights do you, as the data subject, have
-All user data remains on device. You can clear app data and turn of iCloud device backuop inclusion and all your stored data will be permanently erased. You can also export it with one click inside the app.
+All user data remains on device. You can clear app data and turn off iCloud/Google Drive device backuop inclusion and all your stored data will be permanently erased. You can also export it with one click inside the app.
 
 <br>
 
