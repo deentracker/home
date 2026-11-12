@@ -435,7 +435,8 @@ nav > ul li a:active {
 
 	.playStore,
 	.appStore {
-		height: 60px;
+		width: 200px;
+		height: auto;
 	}
 
 	.playStore {
@@ -446,6 +447,13 @@ nav > ul li a:active {
 }
 
 @media only screen and (max-width: 992px) {
+
+	.playStore,
+	.appStore {
+		width: 230px;
+		height: auto;
+		vertical-align: middle;
+	}
 
 	.iphonePreview,
 	.androidPreview {
